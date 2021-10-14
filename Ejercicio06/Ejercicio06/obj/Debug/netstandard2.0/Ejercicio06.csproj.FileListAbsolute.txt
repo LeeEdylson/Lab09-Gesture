@@ -1,0 +1,38 @@
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\bin\Debug\netstandard2.0\Ejercicio06.deps.json
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\bin\Debug\netstandard2.0\Ejercicio06.dll
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\bin\Debug\netstandard2.0\ref\Ejercicio06.dll
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\bin\Debug\netstandard2.0\Ejercicio06.pdb
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\Ejercicio06.csproj.AssemblyReference.cache
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\Ejercicio06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\PanDemo.xaml.g.cs
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\PinchDemo.xaml.g.cs
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\SwipeDemo.xaml.g.cs
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\TapDemo.xaml.g.cs
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\Ejercicio06.AssemblyInfoInputs.cache
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\Ejercicio06.AssemblyInfo.cs
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\Ejercicio06.csproj.CoreCompileInputs.cache
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\Ejercicio06.dll
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\ref\Ejercicio06.dll
+C:\Users\sabio\source\repos\Ejercicio06\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\Ejercicio06.pdb
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\bin\Debug\netstandard2.0\Ejercicio06.deps.json
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\bin\Debug\netstandard2.0\Ejercicio06.dll
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\bin\Debug\netstandard2.0\ref\Ejercicio06.dll
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\bin\Debug\netstandard2.0\Ejercicio06.pdb
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\Ejercicio06.csproj.AssemblyReference.cache
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\Ejercicio06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\PanDemo.xaml.g.cs
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\PinchDemo.xaml.g.cs
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\SwipeDemo.xaml.g.cs
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\TapDemo.xaml.g.cs
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\Ejercicio06.AssemblyInfoInputs.cache
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\Ejercicio06.AssemblyInfo.cs
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\Ejercicio06.csproj.CoreCompileInputs.cache
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\Ejercicio06.dll
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\ref\Ejercicio06.dll
+C:\Users\Angel Rivero\Source\Repos\Lab09-Multiplataforma\Ejercicio06\Ejercicio06\obj\Debug\netstandard2.0\Ejercicio06.pdb
